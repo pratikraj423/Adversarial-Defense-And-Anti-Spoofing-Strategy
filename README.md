@@ -1,8 +1,10 @@
+## Adversarial Defense & Anti-Spoofing Strategy
+
 GPS based verification is not reliable in adversarial environments where coordinated actors can manipulate location data at scale.  
 Such attacks expose the weakness of systems that depend on a single source of truth.  
 A multi layer verification approach is required that analyzes behavior, patterns, and data consistency to detect fraud.
 
-## Adversarial Defense and Anti Spoofing Strategy
+
 
 ## The Differentiation
 
